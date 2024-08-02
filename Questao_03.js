@@ -1,8 +1,8 @@
 function mostrarNotas() {
     const alunos = [
         { nome: "João da Silva", nota1: 7, nota2: 8.5 },
-        { nome: "Maria Oliveira", nota1: 9, nota2: 6 },
-        { nome: "Carlos Pereira", nota1: 5, nota2: 7 }
+        { nome: "Lucas Pereira", nota1: 9, nota2: 9.5 },
+        { nome: "Carlos Eduardo", nota1: 8, nota2: 9 }
     ];
 
     alunos.forEach(aluno => {

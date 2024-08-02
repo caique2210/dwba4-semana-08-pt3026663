@@ -21,10 +21,10 @@ class Aluno {
 
 const alunos = [
     new Aluno("João", "da Silva", 7, 8.5),
-    new Aluno("Maria", "Oliveira", 9, 6),
-    new Aluno("Carlos", "Pereira", 5, 7),
-    new Aluno("Ana", "Santos", 10, 9),
-    new Aluno("Lucas", "Melo", 4, 5)
+    new Aluno("Lucas", "Pereira", 9, 9.5),
+    new Aluno("Carlos", "Eduardo", 8, 9),
+    new Aluno("Caique", "Salmaso", 7, 9),
+    new Aluno("Gabriel", "Reis", 9, 8.5)
 ];
 
 function mostrarResultados() {
